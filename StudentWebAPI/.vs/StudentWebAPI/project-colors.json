@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0f9464f-a8fb-4639-a6ec-866e9d5648ff": {
+      "ProjectGuid": "d0f9464f-a8fb-4639-a6ec-866e9d5648ff",
+      "DisplayName": "StudentWebAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
